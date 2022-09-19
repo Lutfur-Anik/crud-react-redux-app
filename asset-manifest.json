@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/crud-react-redux-app/static/css/main.3c1dc79f.css",
+    "main.js": "/crud-react-redux-app/static/js/main.45c526ad.js",
+    "static/js/787.ad6a2fa6.chunk.js": "/crud-react-redux-app/static/js/787.ad6a2fa6.chunk.js",
+    "static/media/logo.svg": "/crud-react-redux-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/crud-react-redux-app/index.html",
+    "main.3c1dc79f.css.map": "/crud-react-redux-app/static/css/main.3c1dc79f.css.map",
+    "main.45c526ad.js.map": "/crud-react-redux-app/static/js/main.45c526ad.js.map",
+    "787.ad6a2fa6.chunk.js.map": "/crud-react-redux-app/static/js/787.ad6a2fa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c1dc79f.css",
+    "static/js/main.45c526ad.js"
+  ]
+}
